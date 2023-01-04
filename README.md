@@ -3,7 +3,7 @@ Je m'appelle Yanis CHATELET, j'ai 19 ans et je suis actuellement étudiant en BU
 
 ---
 ## Langages que j'utilise
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py)]
 
 ---
 ## Ce que je fais actuellement
@@ -13,11 +13,11 @@ Je m'appelle Yanis CHATELET, j'ai 19 ans et je suis actuellement étudiant en BU
 
 ---
 ## Logiciels que j'utilise
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,wordpress,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,wordpress,figma,ps)]
 
 ---
 ## Contact
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/yanis-chatelet-73953a221)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yanis-chatelet-73953a221)
 <!--
 **Guurido/Guurido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
