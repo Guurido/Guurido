@@ -10,8 +10,8 @@ Je m'appelle Yanis CHATELET, j'ai 19 ans et je suis actuellement étudiant en BU
 - Je suis en recherche de stage pour une durée de 10 semaines minimum
 ---
 ## Logiciels que j'utilise
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,wordpress,figma,ps)](https://skillicons.dev)]
----
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,wordpress,figma,ps)](https://skillicons.dev)
+------------------
 ## Contact
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 <!--
