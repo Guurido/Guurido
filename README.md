@@ -11,9 +11,9 @@ Je m'appelle Yanis CHATELET, j'ai 19 ans et je suis actuellement étudiant en BU
 ---
 ## Logiciels que j'utilise
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,wordpress,figma,ps)](https://skillicons.dev)
-------------------
+--
 ## Contact
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
 <!--
 **Guurido/Guurido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
