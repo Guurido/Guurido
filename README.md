@@ -6,6 +6,10 @@ Je m'appelle Yanis CHATELET, j'ai 19 ans et je suis actuellement étudiant en BU
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,py)
 
 ---
+## Langages et frameworks que je suis en train d'apprendre
+![My Skills](https://skillicons.dev/icons?i=cs,react,nodejs)
+
+---
 ## Ce que je fais actuellement
 - Actuellement étudiant en deuxième année de BUT MMI
 - J'apprend HTML, CSS, JavaScript, PHP, et MySQL
@@ -13,7 +17,7 @@ Je m'appelle Yanis CHATELET, j'ai 19 ans et je suis actuellement étudiant en BU
 
 ---
 ## Logiciels que j'utilise
-![My Skills](https://skillicons.dev/icons?i=vscode,aws,git,github,wordpress,figma,ps)
+![My Skills](https://skillicons.dev/icons?i=vscode,aws,git,github,unity,wordpress,figma,ps)
 
 ---
 ## Contact
