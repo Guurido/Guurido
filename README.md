@@ -1,5 +1,5 @@
 # Hey 👋 
-Je m'appelle Yanis CHATELET, j'ai 19 ans et je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet
+Je m'appelle Yanis CHATELET, j'ai 20 ans et je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet
 
 ---
 ## Langages que j'utilise
