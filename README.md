@@ -11,14 +11,14 @@ Je m'appelle Yanis CHATELET, j'ai 20 ans et je suis actuellement étudiant en BU
 
 ---
 ## Ce que je fais actuellement
-- Actuellement étudiant en deuxième année de BUT MMI
+- Actuellement étudiant en troisième année de BUT MMI
 - J'apprend HTML, CSS, JavaScript, PHP, et MySQL
-- Je suis en recherche de stage pour une durée de 10 semaines minimum
+- Je suis en recherche d'une alternance
 
 ---
 ## Logiciels que j'utilise
-![My Skills](https://skillicons.dev/icons?i=vscode,aws,git,github,unity,wordpress,figma,ps)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,unity,wordpress,figma,ps)
 
 ---
 ## Contact
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yanis-chatelet-73953a221)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yanis-chatelet-73953a221)[![My Skills](https://skillicons.dev/icons?i=chrome)](https://chatelet-yanis.fr/)
