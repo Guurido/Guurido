@@ -17,8 +17,8 @@ Je m'appelle Yanis CHATELET, j'ai 20 ans et je suis actuellement étudiant en BU
 
 ---
 ## Logiciels que j'utilise
-![My Skills](https://skillicons.dev/icons?i=vscode,git,github,unity,wordpress,figma,ps)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,idea,unity,wordpress,figma,ps,discord,teams)
 
 ---
 ## Contact
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yanis-chatelet-73953a221)[![My Skills](https://skillicons.dev/icons?i=chrome)](https://chatelet-yanis.fr/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yanis-chatelet-73953a221)
