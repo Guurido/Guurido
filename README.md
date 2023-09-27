@@ -7,7 +7,7 @@ Je m'appelle Yanis CHATELET, j'ai 20 ans et je suis actuellement étudiant en BU
 
 ---
 ## Langages et frameworks que je suis en train d'apprendre
-![My Skills](https://skillicons.dev/icons?i=cs,react,nodejs,vue,kotlin)
+![My Skills](https://skillicons.dev/icons?i=cs,react,nodejs,kotlin)
 
 ---
 ## Ce que je fais actuellement
