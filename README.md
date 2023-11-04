@@ -13,7 +13,7 @@ Je m'appelle Yanis CHATELET, j'ai 20 ans et je suis actuellement étudiant en BU
 ## Ce que je fais actuellement
 - Actuellement étudiant en troisième année de BUT MMI
 - J'apprend HTML, CSS, JavaScript, PHP, et MySQL
-- Je suis en recherche d'une alternance
+- Je suis en recherche d'un stage pour une durée de 12 semaines
 
 ---
 ## Logiciels que j'utilise
