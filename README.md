@@ -1,5 +1,6 @@
 # Hey 👋 
-Je m'appelle Yanis CHATELET, j'ai 22 ans et je suis dimpômé du BUT Métiers du Multimédia et de l'Internet option développement web et dispositifs interactifs
+Je m'appelle Yanis AFONSO, j'ai 23 ans et je suis dimpômé du BUT Métiers du Multimédia et de l'Internet option développement web et dispositifs interactifs
+Je suis actuellement alternant en tant que Technicien Support
 
 ---
 ## Langages que j'utilise
