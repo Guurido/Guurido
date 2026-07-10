@@ -12,8 +12,7 @@ Je suis actuellement alternant en tant que Technicien Support
 
 ---
 ## Ce que je fais actuellement
-- Actuellement étudiant en troisième année de BUT MMI
-
+- Actuellement étudiant alternant en tant que Technicien Support en TP TSSR à l'école Schola Nova
 ---
 ## Logiciels que j'utilise
 ![My Skills](https://skillicons.dev/icons?i=vscode,git,github,idea,unity,wordpress,figma,ps,discord,teams)
